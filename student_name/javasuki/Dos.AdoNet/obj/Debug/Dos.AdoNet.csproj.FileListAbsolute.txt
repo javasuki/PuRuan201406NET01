@@ -1,0 +1,8 @@
+E:\DotNet2010\学习工程\Ado.Net1\Dos.AdoNet\bin\Debug\Dos.AdoNet.exe
+E:\DotNet2010\学习工程\Ado.Net1\Dos.AdoNet\bin\Debug\Dos.AdoNet.pdb
+E:\DotNet2010\学习工程\Ado.Net1\Dos.AdoNet\obj\Debug\Dos.AdoNet.exe
+E:\DotNet2010\学习工程\Ado.Net1\Dos.AdoNet\obj\Debug\Dos.AdoNet.pdb
+E:\DotNet2010\学习工程\Ado.Net1\Dos.AdoNet\bin\Debug\Dos.AdoNet.exe.config
+E:\DotNet2010\学习工程\Ado.Net1\Dos.AdoNet\bin\Debug\Mini.Data.dll
+E:\DotNet2010\学习工程\Ado.Net1\Dos.AdoNet\bin\Debug\Mini.Data.pdb
+E:\DotNet2010\学习工程\Ado.Net1\Dos.AdoNet\obj\Debug\Dos.AdoNet.csprojResolveAssemblyReference.cache

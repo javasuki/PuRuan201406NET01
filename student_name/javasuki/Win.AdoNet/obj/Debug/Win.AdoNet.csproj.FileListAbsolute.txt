@@ -1,0 +1,11 @@
+E:\DotNet2010\学习工程\Ado.Net1\Win.AdoNet\bin\Debug\Win.AdoNet.exe.config
+E:\DotNet2010\学习工程\Ado.Net1\Win.AdoNet\bin\Debug\Win.AdoNet.exe
+E:\DotNet2010\学习工程\Ado.Net1\Win.AdoNet\bin\Debug\Win.AdoNet.pdb
+E:\DotNet2010\学习工程\Ado.Net1\Win.AdoNet\bin\Debug\Mini.Data.dll
+E:\DotNet2010\学习工程\Ado.Net1\Win.AdoNet\bin\Debug\Mini.Data.pdb
+E:\DotNet2010\学习工程\Ado.Net1\Win.AdoNet\obj\Debug\Win.AdoNet.csprojResolveAssemblyReference.cache
+E:\DotNet2010\学习工程\Ado.Net1\Win.AdoNet\obj\Debug\Win.AdoNet.Properties.Resources.resources
+E:\DotNet2010\学习工程\Ado.Net1\Win.AdoNet\obj\Debug\Win.AdoNet.csproj.GenerateResource.Cache
+E:\DotNet2010\学习工程\Ado.Net1\Win.AdoNet\obj\Debug\Win.AdoNet.exe
+E:\DotNet2010\学习工程\Ado.Net1\Win.AdoNet\obj\Debug\Win.AdoNet.pdb
+E:\DotNet2010\学习工程\Ado.Net1\Win.AdoNet\obj\Debug\Win.AdoNet.frmADO.resources
